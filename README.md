@@ -11,10 +11,10 @@ Here is what my game looks like (watch out, graphics are not my forte) :
 
 ## Try it! (must be on macOS)
 First, use `git` to clone my game into the directory of your choice. 
-`	git clone https://github.com/passionroro/42lausanne.git`
+`	git clone https://github.com/passionroro/42cursus-so_long.git`
 
-Next, `cd` (_change directory_) into 42lausanne/02/so_long
-    `cd 42lausanne/02/so_long`
+Next, `cd` (_change directory_) into 42cursus-so_long
+    `cd 42cursus-so_long`
   
 You can now : 
  - compile all the files :
