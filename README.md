@@ -7,7 +7,7 @@ It is funny to add some animations when the player moves, when he can get out (t
 
 
 Here is what my game looks like (watch out, graphics are not my forte) :
-![so_long_gif](https://github.com/passionroro/42cursus-so_long/blob/master/so_long.mp4)
+![so_long_gif](https://github.com/passionroro/42cursus-so_long/blob/master/includes/git_so_long.gif)
 
 ## Try it! (must be on macOS)
 First, use `git` to clone my game into the directory of your choice. 
